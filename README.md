@@ -1,4 +1,4 @@
-# BootCamp WooMakersCode
+# BootCamp WoMakersCode
 
 README ainda em desenvolvimento!
 
