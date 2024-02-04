@@ -1,0 +1,137 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "q6jwYtS4EWUS"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "SgyliYAfC5iZ"
+      },
+      "outputs": [],
+      "source": [
+        "import pandas as pd"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Dataframe e ordenaÃ§Ã£o\n",
+        "\n",
+        "**Utilizando o arquivo: carros.csv**\n",
+        "\n",
+        "1. FaÃ§a o upload do CSV carros.csv\n",
+        "2. Print seu head com 10 linhas\n",
+        "3. Agora print as colunas e index do dataframe\n",
+        "4. FaÃ§a um sort decrescente no dataframe pelo estado com maior quantidade de carros\n",
+        "5. Descubra qual a proporÃ§Ã£o de carro para a populaÃ§Ã£o de cada estado e insira em uma nova coluna\n",
+        "6. FaÃ§a um dataframe com Estado e proporÃ§Ã£o de carro por habitante"
+      ],
+      "metadata": {
+        "id": "OnDUKrRQDCW0"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "WZFMmO6ZDDpb"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# AgregaÃ§Ã£o de dados\n",
+        "\n",
+        "**Utilizando o arquivos: concurso.csv**\n",
+        "7. Qual a mÃ©dia de idade por regiÃ£o?\n",
+        "8. Qual Ã© a porcentagem de pessoas com deficiÃªncia?\n",
+        "9. Quantas pessoas sÃ£o do estado do PiauÃ­?\n"
+      ],
+      "metadata": {
+        "id": "lI0ZyKu9DD-_"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "07H8lbCHDDv3"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# IndexaÃ§Ã£o e fatiamento\n",
+        "\n",
+        "**Utilizando o arquivos: concurso.csv**\n",
+        "\n",
+        "Temos como base inscriÃ§Ãµes em um concurso pÃºblico, utilizando indexaÃ§Ã£o retorne:\n",
+        "10. Quantas pessoas sÃ£o do estado do PiauÃ­?\n",
+        "11. Quantas do ES sÃ£o so sexo feminino?\n",
+        "12. Quantas pessoas nasceram antes de 1995?\n",
+        "\n",
+        "13. Retorne os dados dos incritos com as colunas: nÂº inscriÃ§Ã£o, nome e idade.\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "fzcX5qBZGn2X"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "igt5TWV5GpL8"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Valores faltosos\n",
+        "\n",
+        "14. Para os valores faltosos coloque:\n",
+        "- Se string: Falta informaÃ§Ã£o\n",
+        "- Se nÃºmero: mediana\n",
+        "15. Plote a porcentagem de dados faltosos para cada coluna."
+      ],
+      "metadata": {
+        "id": "oont0KrSGylE"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "c6UTB_hTHEbi"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
